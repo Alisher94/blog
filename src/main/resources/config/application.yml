@@ -159,6 +159,7 @@ server:
     session:
       cookie:
         http-only: true
+  port: 8082
 
 springdoc:
   show-actuator: true
